@@ -47,4 +47,4 @@ mvn clean verify
 
 ## Integrantes
 
-- Cristian — _(completar)_
+- Cristian
