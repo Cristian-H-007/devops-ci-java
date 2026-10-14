@@ -16,7 +16,7 @@ public class DiscountCalculator {
 
     private double calculateDiscount(double amount, boolean premiumCustomer) {
         if (premiumCustomer && amount >= 500) {
-            return 0.25;
+            return 0.20;
         }
         if (premiumCustomer) {
             return 0.10;
